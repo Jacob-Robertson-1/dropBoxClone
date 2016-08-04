@@ -1,0 +1,70 @@
+html,
+
+body {
+    max-width: 100%;
+}
+h1 {
+    color: #007EE5;
+}
+.primaryHeadContainer {
+    width: 100%;
+    align-content: center;
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #D8DBDF;
+    position: permanent;
+}
+.secondaryHeadContainer {
+    background-color: white;
+    height: 75px;
+    margin: 0 120px;
+}
+.routingBar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+.routingBarLeft {
+    text-align: left;
+    margin: 0;
+}
+.tryDropboxBusiness{
+    color: #007EE5;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 9
+        px 15px;
+    border-width: thin;
+    
+}
+.routingBarCenter {
+    text-align: center;
+    font-weight: 500;
+    padding: 0px;
+    margin: 0 auto;
+}
+.routingBarRight {
+    text-align: right;
+    padding: 0px, 15px;
+    display: flex;
+    flex-wrap: wrap;
+    color: #007EE5;
+    
+}
+.downloadApp {
+    padding: 0px 5px;
+    list-style: none;
+}
+.login{
+    padding: 0px 5px;
+}
+.primaryBodyContainer {
+    width: auto;
+    height: auto;
+    background-color: #FBFBFB;
+}
+.secondaryBodyContainer {
+
+}
